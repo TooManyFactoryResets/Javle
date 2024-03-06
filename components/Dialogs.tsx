@@ -122,7 +122,7 @@ let ExplanationDialog = (props: { open: boolean, setOpen: (value: boolean) => vo
                   <div className="border-t border-blue-200 mt-3 pt-3">
                     <div className="font-light">
                       <p>
-                        By the original author of Debuggle, Kiru:
+                        From the original author of Debuggle:
                         
                         Hi, I am Kiru 👋 . If you have any questions visit <a href="https://kiru.io/"
                                                                               className="text-blue-200 font-bold hover:underline"
