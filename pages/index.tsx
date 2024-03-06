@@ -223,7 +223,7 @@ const HomeInternal: NextPage = () => {
   return (
     <div className="bg-[#252526] text-white">
       <Head>
-        <title>Debuggle :: Find a known algorithm</title>
+        <title>Javle :: Find a known algorithm</title>
         <link rel="icon" href="/favicon.ico"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       </Head>
@@ -304,26 +304,6 @@ const HomeInternal: NextPage = () => {
       </main>
 
       <div className="fixed right-0 bottom-0 flex m-4 gap-1">
-        <a href="https://geotagseo.com/" target="_blank">
-          <img src="/geotagseo-icon.webp" alt="GeoTagSeo.com"
-               className="h-6 bg-green-800 rounded hover:ring-green-800 hover:ring-2"/>
-        </a>
-        <a href="https://kiru.io/" target="_blank">
-          <img src="/mini-kiru.webp" alt="Kiru Logo"
-               className="h-6 bg-green-800 rounded hover:ring-green-800 hover:ring-2"/>
-        </a>
-        <a href="https://mathlegame.com/" target="_blank">
-          <img src="/mathle-icon.webp" alt="Mathle-Logo"
-               className="h-6 bg-green-800 rounded hover:ring-green-800 hover:ring-2"/>
-        </a>
-        <a href="https://reversle.net/" target="_blank">
-          <img src="/reversle-icon.webp" alt="Reversle icon"
-               className="h-6 bg-green-800 rounded hover:ring-green-800 hover:ring-2"/>
-        </a>
-        <a href="https://learnle.net/" target="_blank">
-          <img src="/learnle-icon.webp" alt="Learnle"
-               className="h-6 bg-green-800 rounded hover:ring-green-800 hover:ring-2"/>
-        </a>
       </div>
     </div>
   )
