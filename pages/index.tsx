@@ -234,7 +234,7 @@ const HomeInternal: NextPage = () => {
           <div className="border-r border-r-gray-300">
             <div className="p-2 pl-4 text-sm w-full bg-gray-700 w-full uppercase flex">
               <div className="flex-grow">
-                Debuggle
+                Javle
               </div>
 
               <div className="flex flex-row">
