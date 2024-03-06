@@ -110,7 +110,7 @@ let ExplanationDialog = (props: { open: boolean, setOpen: (value: boolean) => vo
                     </div>
 
                     <div>
-                      This page is inspired by <a  target="_blank" href="https://www.redactle.com/" className="hover:text-blue-200">Redactle</a>.
+                      This page is inspired by <a  target="_blank" href="https://debuggle.net/" className="hover:text-blue-200">Debuggle</a>.
 
                     </div>
 
@@ -122,6 +122,8 @@ let ExplanationDialog = (props: { open: boolean, setOpen: (value: boolean) => vo
                   <div className="border-t border-blue-200 mt-3 pt-3">
                     <div className="font-light">
                       <p>
+                        By the original author of Debuggle, Kiru:
+                        
                         Hi, I am Kiru 👋 . If you have any questions visit <a href="https://kiru.io/"
                                                                               className="text-blue-200 font-bold hover:underline"
                                                                               target="_blank">kiru.io</a> or contact me
