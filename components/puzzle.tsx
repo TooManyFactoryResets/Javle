@@ -2,7 +2,7 @@ export const solution = {
   id: 15,
   filename: "quickSort",
   extension: "java",
-  code: `// https://www.geeksforgeeks.org/quick-sort
+  code: `// www.geeksforgeeks.org/quick-sort
 // Java implementation of QuickSort
 import java.io.*;
 
