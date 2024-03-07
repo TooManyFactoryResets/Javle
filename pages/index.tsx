@@ -285,7 +285,7 @@ const HomeInternal: NextPage = () => {
               </div>
 
               <div className="bg-white text-black px-2 rounded-lg hover:bg-transparent hover:text-white cursor-pointer">
-                <a href="https://github.com/kiru/debuggle" target="_blank">Checkout on GitHub</a>
+                <a href="https://github.com/TooManyFactoryResets/Javle" target="_blank">Checkout on GitHub</a>
               </div>
             </div>
 
