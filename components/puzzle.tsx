@@ -2,8 +2,7 @@ export const solution = {
   id: 15,
   filename: "quicksort",
   extension: "java",
-  code: `
-public class quicksort {
+  code: `public class quicksort {
 	static void swap(int[] arr, int i, int j)
 	{
 		int temp = arr[i];
