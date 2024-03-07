@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
+        <meta name="google-site-verification" content="BV9zXVsM6TPEh59JTa3-Or0q-FiA_KiA1S4LmY16vlU" />
         <script defer data-domain="debugle.net" src="https://plausible.io/js/plausible.js"></script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4146890929235011" crossOrigin="anonymous"></script>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
