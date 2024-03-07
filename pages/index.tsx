@@ -224,6 +224,7 @@ const HomeInternal: NextPage = () => {
     <div className="bg-[#252526] text-white">
       <Head>
         <meta name="google-site-verification" content="BV9zXVsM6TPEh59JTa3-Or0q-FiA_KiA1S4LmY16vlU" />
+        <meta name="msvalidate.01" content="F7FCF017B4494FA8880AFDF0A157A397" />
         <title>Javle :: Find a known algorithm</title>
         <link rel="icon" href="/favicon.ico"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
