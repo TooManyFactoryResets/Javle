@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
+        <meta name="msvalidate.01" content="F7FCF017B4494FA8880AFDF0A157A397" />
         <meta name="google-site-verification" content="BV9zXVsM6TPEh59JTa3-Or0q-FiA_KiA1S4LmY16vlU" />
         <script defer data-domain="debugle.net" src="https://plausible.io/js/plausible.js"></script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4146890929235011" crossOrigin="anonymous"></script>
@@ -13,14 +14,13 @@ export default function Document() {
         <link rel="manifest" href="/site.webmanifest"/>
 
         <meta name="description"
-              content="Find a known redacted algorithm word by word. Every day a new algorithm"/>
+              content="Find a known redacted algorithm word by word. Every day a new algorithm (WIP)"/>
 
-        <meta property="og:url" content="https://debuggle.net/"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:site_name" content="Debuggle"/>
+        <meta property="og:site_name" content="Javle"/>
         <meta property="og:description"
-              content="Find a known redacted algorithm word by word. Every day a new algorithm"/>
-        <meta property="og:title" content="Find a known redacted algorithm word by word. Every day a new algorithm"/>
+              content="Find a known redacted algorithm word by word. Every day a new algorithm (WIP)"/>
+        <meta property="og:title" content="Find a known redacted algorithm word by word. Every day a new algorithm (WIP)"/>
         <meta property="og:image" content="https://debuggle.net/TwitterCard.png"/>
         <title>Javle</title>
 
