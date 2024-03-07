@@ -22,7 +22,7 @@ export default function Document() {
               content="Find a known redacted algorithm word by word. Every day a new algorithm"/>
         <meta property="og:title" content="Find a known redacted algorithm word by word. Every day a new algorithm"/>
         <meta property="og:image" content="https://debuggle.net/TwitterCard.png"/>
-        <title>Debuggle</title>
+        <title>Javle</title>
 
       </Head>
       <body>
